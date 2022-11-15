@@ -1,0 +1,22 @@
+package com.core.SpringCoreDemo.ReferanceInjection;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+
+
+public class ReferanceTest {
+	
+public static void main(String[] args) {
+		
+		ApplicationContext context = new ClassPathXmlApplicationContext("com/core/SpringCoreDemo/ReferanceInjection/Referance.xml");	
+	 StudentDetails stu1 = (StudentDetails) context.getBean("StudentDetails");
+		System.out.println(stu1.getName());
+		System.out.println(stu1.getStd());
+		System.out.println(stu1.getAge());
+		System.out.println(stu1.getCity());
+		
+		
+	}
+
+}
