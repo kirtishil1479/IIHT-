@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xmlns:context="http://www.springframework.org/schema/context" xmlns:p="http://www.springframework.org/schema/p" 
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+ https://www.springframework.org/schema/beans/spring-beans.xsd 
+http://www.springframework.org/schema/context
+http://www.springframework.org/schema/context/spring-context.xsd">
+
+
+	
+	<bean name="employee1" class="com/core/SpringCoreDemo/collection/Employee.java" >
+		<property name="Employeename" value="kirtishil dhiwar"></property>
+		<property name="phones">
+		<list>
+		<value>97647826738</value>
+		<value>83827737289</value>
+		<value>99826738283</value>
+		</list>
+		
+		</property>
+		<property name="address">
+		<set>
+		<value>Manmad</value>
+		<value>Nashik</value>
+		<value>MUmbai</value>
+		
+		</set>
+		
+		</property>
+		
+		<property name="courses">
+		<map>
+		<entry key="BE" value="SPPU" />
+		<entry key="Diploma" value="MSBTE" />
+		<entry key="Java" value="BikkadIT" />
+		
+		</map>
+		
+		</property>
+		
+		<property name="props">
+		<props>
+		<prop key="Role"> Developer</prop>
+		<prop key="Technology">Java and JavaScript</prop>
+		</props>
+		
+		
+		
+		
+		
+		
+		</property>
+		
+		
+		
+		
+	</bean>
+	
+
+</beans>

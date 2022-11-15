@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\cogjava4437\Desktop\Spring MVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2282837922.index
+\SpringMvcDemo\src\main\resources

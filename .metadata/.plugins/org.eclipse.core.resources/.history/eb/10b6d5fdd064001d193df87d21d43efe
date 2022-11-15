@@ -1,0 +1,5 @@
+package com.core.SpringCoreDemo.collection;
+
+public class Employee {
+
+}
