@@ -1,0 +1,18 @@
+package com.core.SpringCoreDemo.lifecyle;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class BikeMain {
+	
+	public static void main(String[] args) {
+		
+		
+		ApplicationContext context=new ClassPathXmlApplicationContext("com/core/SpringCoreDemo/lifecyle/config.xml");
+		MotorBike bike1 = (MotorBike) context.getBean("motorbike1");
+		System.out.println(bike1.getName());
+		System.out.println(bike1.getPrice());
+		
+	}
+
+}

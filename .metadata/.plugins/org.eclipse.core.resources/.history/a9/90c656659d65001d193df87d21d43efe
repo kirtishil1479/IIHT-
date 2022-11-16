@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xmlns:context="http://www.springframework.org/schema/context" xmlns:p="http://www.springframework.org/schema/p" 
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+ https://www.springframework.org/schema/beans/spring-beans.xsd 
+http://www.springframework.org/schema/context
+http://www.springframework.org/schema/context/spring-context.xsd">
+
+
+	<!-- This is my bean for the student class -->
+	<bean class="com.core.SpringCoreDemo.Student" name="student1">
+		<property name="studentId" value="18456"></property>
+		<property name="studentName" value="Vinay Agarwal"></property>
+		<property name="address" value="Hyderabad"></property>
+	</bean>
+	<bean class="com.core.SpringCoreDemo.Student" name="student2">
+		<property name="studentId" value="12000"></property>
+		<property name="studentName" value="Vinit SIngh"></property>
+		<property name="address" value="Pune"></property>
+	</bean>
+	<bean class="com.core.SpringCoreDemo.Student" name="student3" p:studentId="99999" p:studentName="Ashok Kumar" p:address="Kolkata"/>
+
+
+
+</beans>
