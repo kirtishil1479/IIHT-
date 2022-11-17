@@ -2046,3 +2046,31 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.389
 !MESSAGE executing callback sts4.classpath.SWOkWLYQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:46:49.312
+!MESSAGE Preparing classpath changed notification StudentManagementApplication
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:46:49.313
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:46:49.323
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:46:49.327
+!MESSAGE buffering callback sts4.classpath.SWOkWLYQ StudentManagementApplication false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:46:49.328
+!MESSAGE executing callback sts4.classpath.SWOkWLYQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:46:49.341
+!MESSAGE executing callback sts4.classpath.SWOkWLYQ SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2022-11-17 15:13:01.889
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1886)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2021)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:308)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
