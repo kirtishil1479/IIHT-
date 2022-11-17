@@ -59,6 +59,17 @@ public class Student {
 	}
 	
 	
+	public Student( String name, String email, int std) {
+		super();
+		this.name = name;
+		this.email = email;
+		this.std = std;
+	}
+	public Student() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	
 	
 	
 	
