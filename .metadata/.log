@@ -1899,3 +1899,150 @@ java.lang.InterruptedException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-16 18:09:28.251
+!MESSAGE Preparing classpath changed notification StudentManagementApplication
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-16 18:09:28.253
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-16 18:09:28.255
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-16 18:09:28.255
+!MESSAGE buffering callback sts4.classpath.PGjvniBq StudentManagementApplication false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-16 18:09:28.256
+!MESSAGE executing callback sts4.classpath.PGjvniBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-16 18:09:28.287
+!MESSAGE executing callback sts4.classpath.PGjvniBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-16 18:09:28.950
+!MESSAGE Preparing classpath changed notification StudentManagementApplication
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-16 18:09:28.951
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-16 18:09:28.955
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-16 18:09:28.959
+!MESSAGE buffering callback sts4.classpath.PGjvniBq StudentManagementApplication false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-16 18:09:28.959
+!MESSAGE executing callback sts4.classpath.PGjvniBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-16 18:09:28.967
+!MESSAGE executing callback sts4.classpath.PGjvniBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-16 18:09:42.890
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.PGjvniBq
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-16 18:09:42.891
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.PGjvniBq
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-16 18:09:42.892
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-16 18:09:42.892
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.PGjvniBq => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.090
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.092
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2b778004[org.springframework.tooling.boot.ls:1.13.0.201911200938(id=632)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:05.093
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.273
+!MESSAGE Boot LS startup time from start to initialized: 6178ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.308
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.SWOkWLYQisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.309
+!MESSAGE subscribing to classpath changes: sts4.classpath.SWOkWLYQ isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.310
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.310
+!MESSAGE subsribers = {sts4.classpath.SWOkWLYQ=Send Classpath Notifications(2976)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.311
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.311
+!MESSAGE project StudentManagementApplication ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.312
+!MESSAGE project SpringCoreDemo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.312
+!MESSAGE Preparing classpath changed notification StudentManagementApplication
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.313
+!MESSAGE project SpringMvcDemo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.314
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.314
+!MESSAGE project demo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.315
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.316
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.SWOkWLYQ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.318
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.320
+!MESSAGE buffering callback sts4.classpath.SWOkWLYQ StudentManagementApplication false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.321
+!MESSAGE Preparing classpath changed notification SpringCoreDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.321
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.322
+!MESSAGE classpath=12 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.323
+!MESSAGE buffering callback sts4.classpath.SWOkWLYQ SpringCoreDemo false 12
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.323
+!MESSAGE Preparing classpath changed notification SpringMvcDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.324
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.325
+!MESSAGE classpath=7 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.325
+!MESSAGE buffering callback sts4.classpath.SWOkWLYQ SpringMvcDemo false 7
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.326
+!MESSAGE Preparing classpath changed notification demo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.326
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.332
+!MESSAGE classpath=64 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.335
+!MESSAGE buffering callback sts4.classpath.SWOkWLYQ demo false 64
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.335
+!MESSAGE executing callback sts4.classpath.SWOkWLYQ 4 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-17 14:23:11.389
+!MESSAGE executing callback sts4.classpath.SWOkWLYQ SUCCESS [done]
