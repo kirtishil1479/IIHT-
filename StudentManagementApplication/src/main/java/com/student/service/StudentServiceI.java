@@ -10,5 +10,7 @@ public interface StudentServiceI {
 	Integer saveStudent( Student student);
 	Optional<Student>  getStudentById(Integer id);
 	List<Student> getAllStudent();
+	public void deleteStudentById(Integer id);
+	 Student updateStudent(Student student, Integer id);
 
 }
