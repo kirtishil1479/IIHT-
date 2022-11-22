@@ -1505,3 +1505,275 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:s
 2022-11-18 16:10:51,841 [Worker-292: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-11-18 16:10:51,842 [Worker-292: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-11-18 16:10:51,843 [Worker-292: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-18 16:10:51,843 [Worker-292: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-18 16:11:04,375 [Worker-298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-18 16:11:04,375 [Worker-298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-18 16:11:04,376 [Worker-298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-18 16:11:04,396 [Worker-298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-18 16:11:04,398 [Worker-298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-18 16:11:04,398 [Worker-298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-18 16:11:04,398 [Worker-298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-18 16:14:49,326 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-18 16:14:49,326 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-18 16:14:49,327 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-18 16:14:49,342 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-18 16:14:49,344 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-18 16:14:49,344 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-18 16:14:49,344 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-18 16:33:08,419 [Worker-303: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-18 16:33:08,420 [Worker-303: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-18 16:33:08,421 [Worker-303: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-18 16:33:08,436 [Worker-303: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-18 16:33:08,438 [Worker-303: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-18 16:33:08,438 [Worker-303: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-18 16:33:08,439 [Worker-303: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-18 16:35:48,693 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-18 16:35:48,693 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-18 16:35:48,694 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-18 16:35:48,709 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-18 16:35:48,711 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-18 16:35:48,711 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-18 16:35:48,711 [Worker-301: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-18 16:46:46,790 [Worker-315: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-18 16:46:46,790 [Worker-315: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-18 16:46:46,791 [Worker-315: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-18 16:46:46,812 [Worker-315: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-18 16:46:46,815 [Worker-315: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-18 16:46:46,815 [Worker-315: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-18 16:46:46,815 [Worker-315: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 14:14:47,223 [Worker-328: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-11-21 14:14:50,394 [Worker-328: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.token:JWT-Demo:0.0.1-SNAPSHOT @ C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\pom.xml.
+2022-11-21 14:14:51,720 [Worker-328: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.student:StudentManagementApplication:0.0.1-SNAPSHOT @ C:\Users\cogjava4437\Desktop\Spring MVC\StudentManagementApplication\pom.xml.
+2022-11-21 14:14:57,607 [Worker-328: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StudentManagementApplication/src/main/java
+2022-11-21 14:14:57,608 [Worker-328: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StudentManagementApplication/src/main/resources
+2022-11-21 14:14:57,608 [Worker-328: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /StudentManagementApplication/src/main/resources
+2022-11-21 14:14:57,609 [Worker-328: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /StudentManagementApplication/src/test/java
+2022-11-21 14:14:58,273 [Worker-328: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 11 sec
+2022-11-21 14:14:59,153 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 14:14:59,157 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 14:14:59,160 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 14:14:59,161 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 14:14:59,163 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 14:14:59,163 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 14:14:59,163 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 14:15:00,373 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 14:15:00,373 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 14:15:00,373 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 14:15:00,391 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 14:15:00,393 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 14:15:00,393 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 14:15:00,393 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\StudentManagementApplication\src\test\resources
+2022-11-21 14:21:36,570 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 14:21:36,571 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 14:21:36,573 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 14:21:36,598 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 14:21:36,600 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 14:21:36,600 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 14:21:36,600 [Worker-328: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\StudentManagementApplication\src\test\resources
+2022-11-21 15:08:57,078 [Worker-350: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:08:57,078 [Worker-350: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:08:57,080 [Worker-350: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 15:08:57,099 [Worker-350: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 15:08:57,101 [Worker-350: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:08:57,101 [Worker-350: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:08:57,101 [Worker-350: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 15:19:22,926 [Worker-361: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:19:22,927 [Worker-361: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:19:22,928 [Worker-361: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 15:19:22,946 [Worker-361: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 15:19:22,948 [Worker-361: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:19:22,948 [Worker-361: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:19:22,948 [Worker-361: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\StudentManagementApplication\src\test\resources
+2022-11-21 15:26:34,819 [Worker-363: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:26:34,819 [Worker-363: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:26:34,821 [Worker-363: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 15:26:34,838 [Worker-363: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 15:26:34,848 [Worker-363: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:26:34,848 [Worker-363: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:26:34,848 [Worker-363: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 15:27:05,993 [Worker-364: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-11-21 15:27:07,053 [Worker-364: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.token:JWT-Demo:0.0.1-SNAPSHOT @ C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\pom.xml.
+2022-11-21 15:27:07,726 [Worker-364: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.student:StudentManagementApplication:0.0.1-SNAPSHOT @ C:\Users\cogjava4437\Desktop\Spring MVC\StudentManagementApplication\pom.xml.
+2022-11-21 15:27:09,226 [Worker-364: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JWT-Demo/src/main/java
+2022-11-21 15:27:09,226 [Worker-364: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JWT-Demo/src/main/resources
+2022-11-21 15:27:09,227 [Worker-364: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JWT-Demo/src/main/resources
+2022-11-21 15:27:09,228 [Worker-364: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JWT-Demo/src/test/java
+2022-11-21 15:27:09,916 [Worker-364: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2022-11-21 15:27:11,228 [Worker-370: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:27:11,228 [Worker-370: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:27:11,228 [Worker-370: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 15:27:11,244 [Worker-370: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 15:27:11,247 [Worker-370: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:27:11,247 [Worker-370: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:27:11,247 [Worker-370: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 15:27:13,666 [Worker-370: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:27:13,666 [Worker-370: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:27:13,667 [Worker-370: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 15:27:13,667 [Worker-370: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 15:27:13,668 [Worker-370: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:27:13,668 [Worker-370: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:27:13,668 [Worker-370: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\StudentManagementApplication\src\test\resources
+2022-11-21 15:30:34,004 [Worker-364: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.token:JWT-Demo:0.0.1-SNAPSHOT @ C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\pom.xml.
+2022-11-21 15:30:35,216 [Worker-364: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359.pom
+2022-11-21 15:30:35,526 [Worker-364: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359.pom
+2022-11-21 15:30:35,752 [Worker-364: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api-parent/2.4.0-b180830.0359/jaxb-api-parent-2.4.0-b180830.0359.pom
+2022-11-21 15:30:36,035 [Worker-364: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api-parent/2.4.0-b180830.0359/jaxb-api-parent-2.4.0-b180830.0359.pom
+2022-11-21 15:30:37,210 [Worker-364: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359.jar
+2022-11-21 15:30:37,865 [Worker-364: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359.jar
+2022-11-21 15:30:38,958 [Worker-364: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:30:38,959 [Worker-364: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:30:38,960 [Worker-364: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 15:30:38,974 [Worker-364: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 15:30:38,977 [Worker-364: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:30:38,977 [Worker-364: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:30:38,977 [Worker-364: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 15:30:40,641 [Worker-373: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:30:40,641 [Worker-373: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:30:40,642 [Worker-373: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 15:30:40,646 [Worker-373: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 15:30:40,648 [Worker-373: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:30:40,648 [Worker-373: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:30:40,648 [Worker-373: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 15:30:41,306 [Worker-359: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359-sources.jar
+2022-11-21 15:30:42,222 [Worker-359: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359-sources.jar
+2022-11-21 15:30:42,369 [Worker-359: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.xml.bind:jaxb-api:2.4.0-b180830.0359
+2022-11-21 15:30:43,135 [Worker-373: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:30:43,135 [Worker-373: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:30:43,135 [Worker-373: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 15:30:43,135 [Worker-373: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 15:30:43,138 [Worker-373: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:30:43,138 [Worker-373: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:30:43,138 [Worker-373: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 15:31:18,145 [Worker-372: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.token:JWT-Demo:0.0.1-SNAPSHOT @ C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\pom.xml.
+2022-11-21 15:31:19,054 [Worker-372: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:31:19,054 [Worker-372: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:31:19,055 [Worker-372: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 15:31:19,055 [Worker-372: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 15:31:19,082 [Worker-372: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:31:19,083 [Worker-372: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:31:19,083 [Worker-372: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 15:31:22,323 [Worker-372: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:31:22,323 [Worker-372: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:31:22,325 [Worker-372: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 15:31:22,329 [Worker-372: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 15:31:22,330 [Worker-372: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:31:22,330 [Worker-372: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:31:22,331 [Worker-372: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 15:53:25,900 [Worker-376: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:53:25,900 [Worker-376: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:53:25,901 [Worker-376: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 15:53:25,916 [Worker-376: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 15:53:25,918 [Worker-376: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 15:53:25,918 [Worker-376: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 15:53:25,918 [Worker-376: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 16:01:21,545 [Worker-379: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:01:21,545 [Worker-379: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:01:21,547 [Worker-379: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 16:01:21,577 [Worker-379: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 16:01:21,579 [Worker-379: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:01:21,579 [Worker-379: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:01:21,579 [Worker-379: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 16:01:34,389 [Worker-383: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:01:34,390 [Worker-383: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:01:34,392 [Worker-383: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 16:01:34,407 [Worker-383: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 16:01:34,409 [Worker-383: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:01:34,410 [Worker-383: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:01:34,410 [Worker-383: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 16:02:14,107 [Worker-379: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:02:14,107 [Worker-379: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:02:14,109 [Worker-379: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 16:02:14,122 [Worker-379: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 16:02:14,124 [Worker-379: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:02:14,124 [Worker-379: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:02:14,124 [Worker-379: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 16:08:17,681 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:08:17,681 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:08:17,683 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 16:08:17,717 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 16:08:17,719 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:08:17,720 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:08:17,720 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 16:13:45,960 [Worker-392: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:13:45,960 [Worker-392: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:13:45,962 [Worker-392: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 16:13:46,000 [Worker-392: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 16:13:46,002 [Worker-392: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:13:46,002 [Worker-392: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:13:46,003 [Worker-392: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 16:25:01,234 [Worker-400: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:25:01,235 [Worker-400: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:25:01,236 [Worker-400: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 16:25:01,273 [Worker-400: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 16:25:01,276 [Worker-400: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:25:01,276 [Worker-400: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:25:01,276 [Worker-400: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 16:25:24,146 [Worker-403: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:25:24,146 [Worker-403: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:25:24,148 [Worker-403: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 16:25:24,163 [Worker-403: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 16:25:24,166 [Worker-403: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:25:24,167 [Worker-403: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:25:24,167 [Worker-403: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 16:26:31,243 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:26:31,244 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:26:31,247 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 16:26:31,280 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 16:26:31,283 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:26:31,283 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:26:31,283 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 16:39:38,483 [Worker-403: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:39:38,483 [Worker-403: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:39:38,486 [Worker-403: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 16:39:38,532 [Worker-403: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 16:39:38,536 [Worker-403: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:39:38,536 [Worker-403: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:39:38,536 [Worker-403: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 16:41:29,335 [Worker-404: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:41:29,335 [Worker-404: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:41:29,335 [Worker-404: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 16:41:29,372 [Worker-404: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 16:41:29,375 [Worker-404: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:41:29,375 [Worker-404: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:41:29,375 [Worker-404: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 16:44:31,684 [Worker-404: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:44:31,684 [Worker-404: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:44:31,685 [Worker-404: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 16:44:31,704 [Worker-404: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 16:44:31,706 [Worker-404: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:44:31,707 [Worker-404: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:44:31,707 [Worker-404: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\StudentManagementApplication\src\test\resources
+2022-11-21 16:46:15,383 [Worker-411: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:46:15,383 [Worker-411: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:46:15,383 [Worker-411: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 16:46:15,463 [Worker-411: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 16:46:15,465 [Worker-411: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 16:46:15,465 [Worker-411: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 16:46:15,466 [Worker-411: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 17:16:58,245 [Worker-413: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 17:16:58,245 [Worker-413: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 17:16:58,247 [Worker-413: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 17:16:58,264 [Worker-413: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 17:16:58,267 [Worker-413: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 17:16:58,267 [Worker-413: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 17:16:58,267 [Worker-413: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 17:17:17,674 [Worker-414: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 17:17:17,674 [Worker-414: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 17:17:17,676 [Worker-414: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 17:17:17,706 [Worker-414: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 17:17:17,708 [Worker-414: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 17:17:17,709 [Worker-414: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 17:17:17,709 [Worker-414: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 17:18:46,258 [Worker-413: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 17:18:46,258 [Worker-413: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 17:18:46,260 [Worker-413: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 17:18:46,276 [Worker-413: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 17:18:46,279 [Worker-413: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 17:18:46,279 [Worker-413: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 17:18:46,279 [Worker-413: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava4437\Desktop\Spring MVC\JWT-Demo\src\test\resources
+2022-11-21 17:42:08,365 [Worker-414: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 17:42:08,365 [Worker-414: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-21 17:42:08,367 [Worker-414: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-21 17:42:08,407 [Worker-414: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-21 17:42:08,409 [Worker-414: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-21 17:42:08,409 [Worker-414: Launching JWT-Demo - JwtDemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
